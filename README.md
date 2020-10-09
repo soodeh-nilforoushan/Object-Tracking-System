@@ -1,5 +1,5 @@
 # Object tracking system
- this is my bachelor's thesis
+ This is my Artificial Intelligence project
 
 in this project I designed and implemented an object tracking system.
 
