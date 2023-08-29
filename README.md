@@ -1,5 +1,5 @@
 # Object tracking system
- This is my Artificial Intelligence project
+ This is my Bachelors project
 
 in this project I designed and implemented an object tracking system and use 2 algorithms for tracking: KCF, Camshift.
 
